@@ -1,0 +1,98 @@
+{
+  "bookstore": {
+    "name": "Enlightened Reads",
+    "location": "456 Oak Avenue, Townsville, USA",
+    "books": [
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Fiction",
+        "year": 1951,
+        "isbn": "9780316769488",
+        "price": 11.99,
+        "image":"file:///C:/Users/bhava/Desktop/WhatsApp%20Image%202024-04-26%20at%2000.16.03_0fad32b8.jpg"
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "year": 1960,
+        "isbn": "9780061120084",
+        "price": 10.99,
+        "image":"file:///C:/Users/bhava/Desktop/WhatsApp%20Image%202024-04-26%20at%2000.15.59_3d175880.jpg"
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian Fiction",
+        "year": 1949,
+        "isbn": "9780451524935",
+        "price": 12.99,
+        "image":"file:///C:/Users/bhava/Desktop/WhatsApp%20Image%202024-04-26%20at%2000.15.59_b88a5665.jpg"
+      },
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classics",
+        "year": 1925,
+        "isbn": "9780743273565",
+        "price": 9.99,
+        "image":"file:///C:/Users/bhava/Desktop/WhatsApp%20Image%202024-04-26%20at%2000.15.59_115271ca.jpg"
+      },
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "year": 1813,
+        "isbn": "9780141439518",
+        "price": 8.99,
+        "image":"file:///C:/Users/bhava/Desktop/WhatsApp%20Image%202024-04-26%20at%2000.16.00_599382a4.jpg"
+      },
+      {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "year": 1937,
+        "isbn": "9780547928227",
+        "price": 14.99,
+        "image":"file:///C:/Users/bhava/Desktop/WhatsApp%20Image%202024-04-26%20at%2000.16.00_994307e2.jpg"
+      },
+      {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "year": 1954,
+        "isbn": "9780618640157",
+        "price": 29.99,
+        "image":"file:///C:/Users/bhava/Desktop/WhatsApp%20Image%202024-04-26%20at%2000.16.01_efdbd407.jpg"
+      },
+      {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "year": 1997,
+        "isbn": "9780590353427",
+        "price": 16.99,
+        "image":"file:///C:/Users/bhava/Desktop/WhatsApp%20Image%202024-04-26%20at%2000.16.01_a4a99190.jpg"
+      },
+      {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "genre": "Mystery",
+        "year": 2003,
+        "isbn": "9780307474278",
+        "price": 13.99,
+        "image":"file:///C:/Users/bhava/Desktop/WhatsApp%20Image%202024-04-26%20at%2000.16.02_de26b645.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Fiction",
+        "year": 1988,
+        "isbn": "9780061122415",
+        "price": 10.99,
+        "image":"file:///C:/Users/bhava/Desktop/WhatsApp%20Image%202024-04-26%20at%2000.16.02_d2dfbe87.jpg"
+      }
+    ]
+  }
+}
