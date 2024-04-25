@@ -1,0 +1,88 @@
+{
+  "bookstore": {
+    "name": "Enlightened Reads",
+    "location": "456 Oak Avenue, Townsville, USA",
+    "books": [
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Fiction",
+        "year": 1951,
+        "isbn": "9780316769488",
+        "price": 11.99
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "year": 1960,
+        "isbn": "9780061120084",
+        "price": 10.99
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian Fiction",
+        "year": 1949,
+        "isbn": "9780451524935",
+        "price": 12.99
+      },
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classics",
+        "year": 1925,
+        "isbn": "9780743273565",
+        "price": 9.99
+      },
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "year": 1813,
+        "isbn": "9780141439518",
+        "price": 8.99
+      },
+      {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "year": 1937,
+        "isbn": "9780547928227",
+        "price": 14.99
+      },
+      {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "year": 1954,
+        "isbn": "9780618640157",
+        "price": 29.99
+      },
+      {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "year": 1997,
+        "isbn": "9780590353427",
+        "price": 16.99
+      },
+      {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "genre": "Mystery",
+        "year": 2003,
+        "isbn": "9780307474278",
+        "price": 13.99
+      },
+      {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Fiction",
+        "year": 1988,
+        "isbn": "9780061122415",
+        "price": 10.99
+      }
+    ]
+  }
+}
